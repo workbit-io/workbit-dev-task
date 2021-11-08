@@ -2,7 +2,8 @@
 
 ## Introduction
 
-* Install node modules in the root and public directories: $ npm i
+* Install the node modules in the root directory: $ npm i
+* Install the node modules in the public directory: $ npm i
 * To start the server - In the root directory call $ node main
 * To stop the server - In the command line press the Ctrl and C keys on your keyboard.
 * In a web browser navigate to "http://localhost:3000/"
@@ -23,3 +24,4 @@
     * Seperate pages from courses in the data file and update, demonstrating an understanding of how noSQL databases relate data across collections.
     * Replace the technology used to render the data in the webpage demonstrating your understanding of an MVC framework.
     * Add in unit tests to demonstrate your understanding of automated tests.
+    * Using jQuery, add a CSS animation to the course titles after the data has been displayed demonstrating your understanding of jQuery.
